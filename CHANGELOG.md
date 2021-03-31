@@ -1,5 +1,9 @@
 # Changelog
 
+## [1.2.0] - 2021-03-31
+* added
+    * solution for Practice Problem 2.27
+
 ## [1.1.0] - 2021-03-21
 * added
     * practice problem 2.7 show bytes repsenting of strings

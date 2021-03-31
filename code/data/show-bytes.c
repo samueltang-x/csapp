@@ -48,13 +48,13 @@ void practice_problem_2_6() {
 
 void test_show_string() {
     // practice problem 2.7
-    const char *m = "mnopqr";
+    char *m = "mnopqr";
     show_string(m);
 }
 
 int main() {
-    // test_show_bytes(12345);
+    test_show_bytes(-0x58);
     // practice_problem_2_6();
-    test_show_string();
+    // test_show_string();
     return 0;
 }
