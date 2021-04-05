@@ -1,5 +1,8 @@
 # Changelog
 
+## [1.3.0] - 2021-04-05
+* added
+    * Practice Problem 2.30: whether argument can be added without overflow
 ## [1.2.0] - 2021-03-31
 * added
     * solution for Practice Problem 2.27
