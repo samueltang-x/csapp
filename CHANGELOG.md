@@ -1,8 +1,15 @@
 # Changelog
 
+## [1.4.0] - 2021-04-06
+* added
+    * whether 2 arguments multipled without overflow
+        * practice problem 2.35: solution using devision
+        * practice problem 2.36: solution using int64_t
+
 ## [1.3.0] - 2021-04-05
 * added
     * Practice Problem 2.30: whether argument can be added without overflow
+
 ## [1.2.0] - 2021-03-31
 * added
     * solution for Practice Problem 2.27
