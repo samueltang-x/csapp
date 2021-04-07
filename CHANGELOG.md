@@ -1,5 +1,9 @@
 # Changelog
 
+## [1.5.0] - 2021-04-07
+* added
+    * practice problem 2.42: div16 without division, modulus, multiplication, conditional, comparison, loops
+
 ## [1.4.0] - 2021-04-06
 * added
     * whether 2 arguments multipled without overflow
