@@ -1,5 +1,9 @@
 # Changelog
 
+## [1.6.0] - 2021-04-07
+* added
+    * homework 2.57 solution
+
 ## [1.5.0] - 2021-04-07
 * added
     * practice problem 2.42: div16 without division, modulus, multiplication, conditional, comparison, loops
