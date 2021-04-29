@@ -1,6 +1,10 @@
 # Changelog
 
-## [1.6.0] - 2021-04-07
+## [1.7.0] - 2021-04-29
+* added
+    * homework 2.58 solution of is_little_endian()
+
+## [1.6.0] - 2021-04-29
 * added
     * homework 2.57 solution
 
